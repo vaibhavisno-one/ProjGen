@@ -6,4 +6,5 @@ folder lib
   file sync.js
 file package-lock.json
 file package.json
+file Readme.md
 file structure.txt

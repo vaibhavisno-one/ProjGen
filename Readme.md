@@ -1,9 +1,0 @@
- src/
-   components/
-     Header.jsx
-     Footer.jsx
-   utils/
-     helpers.js
- public/
-   index.html
- .gitignore

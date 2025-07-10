@@ -1,11 +1,9 @@
 folder bin
   file index.js
-file hello.txt
 folder lib
   file parser.js
   file scanner.js
   file sync.js
 file package-lock.json
 file package.json
-file Readme.md
-file xxxx.txt
+file structure.txt

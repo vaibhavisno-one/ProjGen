@@ -1,6 +1,6 @@
 {
   "name": "projgen-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate project folders and files from plain text",
   "type": "module",
   "main": "bin/index.js",

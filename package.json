@@ -1,11 +1,11 @@
 {
-  "name": "projgen",
+  "name": "projgen-cli",
   "version": "1.0.0",
   "description": "Generate project folders and files from plain text",
   "type": "module",
   "main": "bin/index.js",
   "bin": {
-    "projgen": "./bin/index.js"
+    "projgen": "bin/index.js"
   },
   "author": "you",
   "license": "MIT"

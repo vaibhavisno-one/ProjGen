@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 import fs from 'fs';
 import { initStructure } from '../lib/scanner.js';
 import { syncStructure } from '../lib/sync.js';

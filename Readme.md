@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/projgen-cli?color=blue)](https://www.npmjs.com/package/projgen-cli)
 [![npm downloads](https://img.shields.io/npm/dt/projgen-cli)](https://www.npmjs.com/package/projgen-cli)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/projgen-cli?style=social)](https://github.com/yourusername/projgen-cli/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/vaibhavisno-one/Projgen?style=social)](https://github.com/vaibhavisno-one/ProjGen/stargazers)
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
 > Generate, sync, and maintain your project's file/folder structure from a single `structure.txt` file — simple, fast, and programmable.
@@ -130,7 +130,7 @@ Best used in version-controlled projects (e.g. Git)
 Clone and run locally:
 
 ```bash
-git clone https://github.com/yourusername/projgen-cli.git
+git clone https://github.com/vaibhavisno-one/ProjGen
 cd projgen-cli
 npm install
 npm link  # optional: use it globally like a real CLI
@@ -176,11 +176,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📄 License
-
-MIT © Vaibhav Kumar
-
----
 
 ## 🌐 Useful Links
 
